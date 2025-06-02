@@ -3,7 +3,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Baradmadhukar-blue?logo=github)](https://github.com/Baradmadhukar)
 [![Outlook](https://img.shields.io/badge/outlook-baradmadhukar@outlook.com-red?logo=outlook)](mailto:baradmadhukar@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://(https://www.linkedin.com/in/madhukarbarad/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://(www.linkedin.com/in/madhukarbarad))
 
 
 ---
