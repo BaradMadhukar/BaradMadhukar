@@ -1,5 +1,5 @@
 ![Matrix Banner](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-# 🙏 नमस्ते (Namaste), I am Barad Madhukar 👋
+### Barad Madhukar 👋
 Full-Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Baradmadhukar-blue?logo=github)](https://github.com/Baradmadhukar)
