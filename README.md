@@ -1,16 +1,17 @@
-## Hi there 👋
+![Matrix Banner](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+# 🙏 नमस्ते (Namaste), I am Barad Madhukar 👋
 
-<!--
-**BaradMadhukar/BaradMadhukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-Baradmadhukar-blue?logo=github)](https://github.com/Baradmadhukar)
+[![Outlook](https://img.shields.io/badge/outlook-baradmadhukar@outlook.com-red?logo=outlook)](mailto:baradmadhukar@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://(https://www.linkedin.com/in/madhukarbarad/))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 I am a passionate Full Stack Developer specializing in:
+- Java, Spring Boot
+- ReactJS, JavaScript
+- Docker, Kubernetes
+- AWS, Azure
+
+📫 Let's connect and collaborate!
