@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/BaradMadhukar.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Profile Photo" />
+  <img src="https://github.com/BaradMadhukar.png" style="border-radius: 50%; object-fit: cover;" alt="Profile Photo" />
 </p>
 
  <em>
