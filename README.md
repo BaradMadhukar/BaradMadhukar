@@ -45,7 +45,7 @@ With over **6.9 years of experience** in building production‐grade application
 
 ## 🚀 Expertise & Tech Stack
 
-## Languages & Frameworks
+## 🧠 Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -62,7 +62,7 @@ With over **6.9 years of experience** in building production‐grade application
    
 </p>
 
-### Tools 
+## 🛠️ Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange" alt="AWS" />
@@ -76,7 +76,7 @@ With over **6.9 years of experience** in building production‐grade application
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-## Arcitechture & Methodology
+## 🏗️ Architecture & Methodology
 <p align="center">
    <!-- Monolithic Architecture -->
   <img src="https://img.shields.io/badge/Monolithic%20Architecture-7B61FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Monolithic Architecture" />
@@ -110,14 +110,14 @@ With over **6.9 years of experience** in building production‐grade application
 
 </p>
 
-## Databse`s
+## 🗃️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OracleDB" />
 </p>
 
-## Cloud Platforms
+## ☁️ Cloud Platforms Cloud Platforms
 <p align="center">
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
