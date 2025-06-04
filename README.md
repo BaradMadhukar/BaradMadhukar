@@ -76,6 +76,39 @@ With over **6.9 years of experience** in building production‐grade application
 
 ### Databse`s
 <p align="center">
+   <!-- Monolithic Architecture -->
+  <img src="https://img.shields.io/badge/Monolithic%20Architecture-7B61FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Monolithic Architecture" />
+
+  <!-- Microservices -->
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices" />
+
+  <!-- Event-Driven Architecture -->
+  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-1E88E5?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="EDA" />
+
+  <!-- RESTful API -->
+  <img src="https://img.shields.io/badge/RESTful%20API-34A853?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful API" />
+
+  <!-- GraphQL -->
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+
+  <!-- Agile -->
+  <img src="https://img.shields.io/badge/Agile-4CAF50?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+
+  <!-- Scrum -->
+  <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/DevOps-20BEFF?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps" />
+
+  <!-- Test Driven Development -->
+  <img src="https://img.shields.io/badge/TDD-673AB7?style=for-the-badge&logo=jest&logoColor=white" alt="TDD" />
+
+</p>
+### Databse`s
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OracleDB" />
