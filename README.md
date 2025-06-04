@@ -6,9 +6,9 @@
   <img width="150" src="https://github.com/<your-username>.png" alt="Profile Photo" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm <your name>!</h1>
+<h1 align="center">👋 Hi there, I'm <Madhukar Barad>!</h1>
 <p align="center">
-  <em>Software Developer at XYZ • Passionate about building web apps • 6+ years experience</em>
+  <em>Java Full-Stack Developer • Open to immediate opportunities • Passionate about building web apps • 6+ years experience</em>
 </p>
 
 ---
