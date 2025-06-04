@@ -6,7 +6,7 @@
   <img width="150" src="https://github.com/<Madhukar Barad>.png" alt="Profile Photo" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm <Madhukar Barad>!</h1>
+<h1 align="center">👋 Hi there, I'm Madhukar Barad !</h1>
 <p align="center">
   <em> <h1> Java Full-Stack Developer • Open to immediate opportunities • Passionate about building web apps • 6+ years experience </h1>h1></em>
 </p>
