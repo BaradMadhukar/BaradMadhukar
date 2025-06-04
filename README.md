@@ -16,7 +16,7 @@
 </em> 
 <em>
 <h3 align="center">• Passionate about building web apps</h3>
-<h3 align="center">• 6+ years of experience</h3>
+<h3 align="center">• 6.9+ years of experience</h3>
 </em>
 </p>
 
