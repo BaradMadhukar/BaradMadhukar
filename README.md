@@ -31,6 +31,14 @@ With over **6 years of experience** in building production‐grade applications,
 ---
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
+<!--                                 Contact Me                                    -->
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-Baradmadhukar-blue?logo=github)](https://github.com/Baradmadhukar)
+[![Outlook](https://img.shields.io/badge/outlook-baradmadhukar@outlook.com-red?logo=outlook)](mailto:baradmadhukar@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhukarbarad)
+
+<!-- ───────────────────────────────────────────────────────────────────────────── -->
 <!--                                 Tech Stack                                     -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
