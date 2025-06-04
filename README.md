@@ -3,8 +3,9 @@
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img width="150" src="https://github.com/<Madhukar Barad>.png" alt="Profile Photo" style="border-radius:50%;" />
+  <img width="150" src="https://github.com/madhukarbarad.png" alt="Profile Photo" style="border-radius:50%;" />
 </p>
+
  <em>
 <h1 align="center">👋 Hi there, I'm Madhukar Barad !</h1>
 <h2 align="center">💻 Java Full-Stack Developer </h2>
