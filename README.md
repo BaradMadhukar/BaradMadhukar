@@ -74,7 +74,7 @@ With over **6.9 years of experience** in building production‐grade application
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-### Databse`s
+### Arcitechture & Methodology
 <p align="center">
    <!-- Monolithic Architecture -->
   <img src="https://img.shields.io/badge/Monolithic%20Architecture-7B61FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Monolithic Architecture" />
@@ -107,6 +107,7 @@ With over **6.9 years of experience** in building production‐grade application
   <img src="https://img.shields.io/badge/TDD-673AB7?style=for-the-badge&logo=jest&logoColor=white" alt="TDD" />
 
 </p>
+
 ### Databse`s
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
