@@ -10,13 +10,13 @@
 
  <em>
 <h1 align="center">👋 Hi, I'm Madhukar Barad !</h1>
-<h2 align="center">💻 Java Full-Stack Developer </h2>
-<h2 align="center">🙋🏻 Open to immediate opportunities </h2>
+<h2 align="center">💻 Java Full-Stack Developer</h2>
+<h2 align="center">🙋🏻 Open to immediate opportunities</h2>
 <p align="center">
 </em> 
 <em>
-<h3 align="center"> • Passionate about building web apps </h3>
-<h3 align="center">• 6+ years experience </h3>
+<h3 align="center">• Passionate about building web apps</h3>
+<h3 align="center">• 6+ years of experience</h3>
 </em>
 </p>
 
