@@ -19,10 +19,10 @@
 
 ## 🔭 About Me
 
-I’m `<your name>`, a software developer specializing in front‐end and full‐stack web technologies.  
-With over **6 years of experience** in building production‐grade applications, I’ve worked on React, Vue, Node.js, and Java/Spring Boot.
+I’m `Madhukar Barad`, a software developer specializing in front‐end and full‐stack web technologies.  
+With over **6.9 years of experience** in building production‐grade applications, I’ve worked on React, Vue, Node.js, and Java/Spring Boot.
 
-- 🔭 I’m currently working as a **Senior Full Stack Developer** at **ABC Corp**  
+ 
 - 🌱 I’m learning advanced **GraphQL** patterns and **WebAssembly**  
 - 👯 I’m looking to collaborate on open source projects focused on **JavaScript tooling**  
 - 💬 Ask me about **React**, **TypeScript**, **Spring Boot**, or **AWS**  
