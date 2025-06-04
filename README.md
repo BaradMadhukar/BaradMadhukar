@@ -153,9 +153,17 @@ With over **6.9 years of experience** in building production‐grade application
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
   <a href="https://www.linkedin.com/in/madhukarbarad/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />   
 </a>
- <a href="mailto:baradmadhukar@outlook.com" target="_blank">
+<a href="https://www.instagram.com/madhu__barad/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+</p>
+
+### Connect with me
+<p align="center">
+</a>
+   <a href="mailto:baradmadhukar@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
 </a>
 
@@ -164,7 +172,6 @@ With over **6.9 years of experience** in building production‐grade application
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 </p>
-
 ---
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
