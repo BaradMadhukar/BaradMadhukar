@@ -172,9 +172,10 @@ With over **6.9 years of experience** in building production‐grade application
 <a href="https://wa.me/918500372739" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
- <a href="tel:+918500372739" target="_blank">
-  <img src="https://img.shields.io/badge/Call%20Me-%2B91%2012345%2067890-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me" />
+<a href="tel:+918500372739" target="_blank">
+  <img src="https://img.shields.io/badge/Ring%20Me-+91%2012345%2067890-0078D4?style=for-the-badge&logo=phone&logoColor=white" alt="Ring Me" />
 </a>
+
 
 </p>
 ---
