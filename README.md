@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <img width="150" src="https://github.com/BaradMadhukar.png" alt="Profile Photo" style="border-radius: 120%;" />
+ <img width="150" src="https://github.com/BaradMadhukar.png" alt="Profile Photo" style="border-radius: 350%;" />
 
 </p>
 
