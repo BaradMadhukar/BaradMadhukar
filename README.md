@@ -11,7 +11,10 @@
 <h3 align="center">🙋🏻 Open to immediate opportunities </h3>
 <p align="center">
 </em> 
-  <em> <h3> • Passionate about building web apps • 6+ years experience </h3> </em>
+<em>
+<h4 align="center"> • Passionate about building web apps </h4>
+<h4 align="center">• 6+ years experience </h4>
+</em>
 </p>
 
 ---
