@@ -161,7 +161,7 @@ With over **6.9 years of experience** in building production‐grade application
 </a>
 </p>
 
-## Connect with me
+## 🔗 Connect with me
 <p align="center">
 </a>
    <a href="mailto:baradmadhukar@outlook.com" target="_blank">
@@ -187,6 +187,10 @@ With over **6.9 years of experience** in building production‐grade application
 
   <!-- GitHub Top Languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarbarad&layout=compact&theme=dark" alt="Top Languages" />
+ <a href="tel:+918500372739" target="_blank">
+  <img src="https://img.shields.io/badge/Call%20Me-%2B91%2012345%2067890-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me" />
+</a>
+
 </p>
 
 ---
