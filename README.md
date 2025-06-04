@@ -12,6 +12,8 @@
 <p align="center">
 </em> 
 <em>
+<h2 align="center">💻 Java Full-Stack Developer </h2>
+<h3 align="center">🙋🏻 Open to immediate opportunities </h3>
 <h4 align="center"> • Passionate about building web apps </h4>
 <h4 align="center">• 6+ years experience </h4>
 </em>
