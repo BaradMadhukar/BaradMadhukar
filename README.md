@@ -2,9 +2,11 @@
 <!--                             Profile Header/Banner                             -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
+
 <p align="center">
-<img width="150" src="[https://github.com/madhukarbarad.png" alt="Profile Photo" style="border-radius:50%;" />
+  <img width="150" src="https://github.com/madhukarbarad.png" alt="Profile Photo" style="border-radius:50%;" />
 </p>
+
 
  <em>
 <h1 align="center">👋 Hi there, I'm Madhukar Barad !</h1>
