@@ -7,8 +7,10 @@
 </p>
 
 <h1 align="center">👋 Hi there, I'm Madhukar Barad !</h1>
+<h2 align="center">💻 Java Full-Stack Developer </h2>
+<h3 align="center"> Open to immediate opportunities </h3>
 <p align="center">
-  <em> <h1> Java Full-Stack Developer • Open to immediate opportunities • Passionate about building web apps • 6+ years experience </h1>h1></em>
+  <em> <h3>  • Open to immediate opportunities • Passionate about building web apps • 6+ years experience </h2></em>
 </p>
 
 ---
