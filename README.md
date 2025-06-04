@@ -175,8 +175,10 @@ With over **6.9 years of experience** in building production‐grade application
 <a href="tel:+918500372739" target="_blank">
  <img src="https://img.shields.io/badge/Ring%20Me-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Ring Me" />
 </a>
-<a href="https://chart.googleapis.com/chart?cht=qr&chs=200x200&chl=tel:+918500372739" target="_blank">
-  ![Call me](https://chart.googleapis.com/chart?cht=qr&chs=200x200&chl=tel:+918500372739)
+<a>
+ 
+<img src="https://chart.googleapis.com/chart?cht=qr&chs=200x200&chl=tel:+918500372739" alt="Call QR Code" />
+ 
 </a>
 
 
