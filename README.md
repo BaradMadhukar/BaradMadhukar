@@ -99,11 +99,11 @@ With over **6.9 years of experience** in building production‐grade application
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Readme Stats card (replace username) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <!-- GitHub Readme Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhukarbarad&show_icons=true&theme=dark" alt="GitHub Stats" />
 
   <!-- GitHub Top Languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarbarad&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
