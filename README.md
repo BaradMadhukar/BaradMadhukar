@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img width="150" src="https://github.com/madhukarbarad.png" alt="Profile Photo" style="border-radius:50%;" />
+  <img width="150" src="[https://github.com/madhukarbarad.png" alt="Profile Photo" style="border-radius:50%;" />
 </p>
 
  <em>
