@@ -9,9 +9,9 @@
 
 
  <em>
-<h1 align="center">👋 Hi there, I'm Madhukar Barad !</h1>
-<h2 align="center">💻 Java Full-Stack Developer </h2>
-<h3 align="center">🙋🏻 Open to immediate opportunities </h3>
+<h1 align="center">👋 Hi, I'm Madhukar Barad !</h1>
+<h1 align="center">💻 Java Full-Stack Developer </h1>
+<h2 align="center">🙋🏻 Open to immediate opportunities </h2>
 <p align="center">
 </em> 
 <em>
