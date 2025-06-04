@@ -12,8 +12,6 @@
 <p align="center">
 </em> 
 <em>
-<h2 align="center">💻 Java Full-Stack Developer </h2>
-<h3 align="center">🙋🏻 Open to immediate opportunities </h3>
 <h4 align="center"> • Passionate about building web apps </h4>
 <h4 align="center">• 6+ years experience </h4>
 </em>
@@ -77,7 +75,7 @@ With over **6.9 years of experience** in building production‐grade application
 ## 📫 Find me on
 
 <p align="center">
-  <a href="https://github.com/<your-username>" target="_blank">
+  <a href="[https://github.com/BaradMadhukar/)]" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/<your-linkedin-username>/" target="_blank">
