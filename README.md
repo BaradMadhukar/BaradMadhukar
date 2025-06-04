@@ -117,7 +117,7 @@ With over **6.9 years of experience** in building production‐grade application
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OracleDB" />
 </p>
 
-## ☁️ Cloud Platforms Cloud Platforms
+## ☁️ Cloud Service Platforms 
 <p align="center">
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
