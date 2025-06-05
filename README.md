@@ -4,12 +4,8 @@
 
 
 <p align="center">
-<div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;">
-  <img src="your-image-url.jpg" alt="Profile Picture" style="width: 100%; height: auto;" />
-</div>
 
-<img src="https://github.com/BaradMadhukar.png" alt="Profile Picture" style="border-radius: 150%; width: auto; height: auto;">
-
+<img src="https://github.com/BaradMadhukar.png" alt="Profile Picture" style="border-radius: 190%; width: auto; height: auto;">
 
 </p>
 
