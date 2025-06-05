@@ -202,7 +202,16 @@ With over **6.9 years of experience** in building production‐grade application
 
   </tr>
 </table>
+
 ---
+
+![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Madhukarbarad&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
+
+---
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <p align="center">
   <em>“Do or do not. There is no try.” – Yoda</em>
