@@ -31,13 +31,19 @@
 I’m `Madhukar Barad`, a software developer specializing in front‐end and full‐stack web technologies.  
 With over **6.9 years of experience** in building production‐grade applications, I’ve worked on React, Vue, Node.js, and Java/Spring Boot.
 
- 
+🚀 Passionate Java Full Stack Developer with 6+ years of experience building scalable, high-performance web applications and APIs. Skilled in Java, Spring Boot, React, Node.js, and cloud platforms like AWS & Azure. I specialize in delivering end-to-end solutions that solve real-world problems and enhance user experience.
+
+- 🔧 Strong in microservices, CI/CD, RESTful APIs, and full-stack architecture
+- ☁️ Cloud-native development | DevOps practices | Scalable systems
 - 🌱 I’m learning advanced **GraphQL** patterns and **WebAssembly**  
 - 👯 I’m looking to collaborate on open source projects focused on **JavaScript tooling**  
 - 💬 Ask me about **React**, **TypeScript**, **Spring Boot**, or **AWS**  
 - ⚡ Fun fact: I love creating pure‐CSS “art” in my free time!
 
----
+  
+💡 Always learning, building, and pushing boundaries in tech.
+
+ ---
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 <!--                                 Tech Stack                                     -->
