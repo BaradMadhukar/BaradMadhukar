@@ -208,6 +208,15 @@ With over **6.9 years of experience** in building production‐grade application
 ![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Madhukarbarad&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
 
 ---
+# GitHub Trends
+
+[![Coverage Status](https://coveralls.io/repos/github/Harry-Hub-5455/github-trends/badge.svg?t=jQQ3FK)](https://coveralls.io/github/MadhukarBarad-5455/github-trends)
+
+## SPECIAL: GitHub Wrapped
+
+Check out your GitHub Wrapped at `githubtrends.io/wrapped`!
+
+![github-wrapped](https://user-images.githubusercontent.com/16708871/204590479-556eb628-a7bd-45c0-9b35-9171c3891f12.png)
 
 
 
