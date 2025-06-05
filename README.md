@@ -4,8 +4,9 @@
 
 
 <p align="center">
+//<img width="150" src="https://github.com/BaradMadhukar.png" alt="Profile Photo" style="border-radius: 50%;" />
+//<img src="https://github.com/BaradMadhukar.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
 <img width="150" src="https://github.com/BaradMadhukar.png" alt="Profile Photo" style="border-radius: 50%;" />
-<img src="https://github.com/BaradMadhukar.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
 
 </p>
 
