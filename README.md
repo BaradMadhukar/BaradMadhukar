@@ -196,6 +196,10 @@ With over **6.9 years of experience** in building production‐grade application
     <td style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
     </td>
+   <!-- GitHub Top Languages card -->
+   <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarbarad&layout=compact&theme=dark" alt="Top Languages" />
+
   </tr>
 </table>
 ---
