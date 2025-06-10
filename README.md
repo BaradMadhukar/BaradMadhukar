@@ -190,18 +190,18 @@ With over **6.9 years of experience** in building production‐grade application
 
 <table>
   <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Madhukarbarad&show_icons=true&theme=github_dark" alt="Madhukarbarad-readme-stats" />
+    <td style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Madhukarbarad&show_icons=true&theme=github_dark" alt="Madhukarbarad GitHub Stats" />
     </td>
-    <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Madhukarbarad&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
+    <td style="border: none; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Madhukarbarad&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
     </td>
-   <!-- GitHub Top Languages card -->
-   <td style="border: none;">
+    <td style="border: none; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukarbarad&layout=compact&theme=dark" alt="Top Languages" />
-
+    </td>
   </tr>
 </table>
+
 
 ---
 
