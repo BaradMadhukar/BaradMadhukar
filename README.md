@@ -191,7 +191,7 @@ With over **6.9 years of experience** in building production‐grade application
 <table>
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Madhukarbarad&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Madhukarbarad&show_icons=true&theme=github_dark" alt="Madhukarbarad-readme-stats" />
     </td>
     <td style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Madhukarbarad&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
