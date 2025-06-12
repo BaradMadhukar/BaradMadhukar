@@ -202,6 +202,7 @@ With over **6.9 years of experience** in building production‐grade application
   </tr>
 </table>
 
+![snake gif](https://github.com/BaradMadhukar/madhukabarad/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
