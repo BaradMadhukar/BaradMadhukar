@@ -207,8 +207,8 @@ With over **6.9 years of experience** in building production‐grade application
 ---
 
 ![My Contributions](https://github-readme-activity-graph.vercel.app/graph?
-![GitHub Snake](./dist/github-snake.svg)
 
+![GitHub Snake](https://github.com/BaradMadhukar/BaradMadhukar/raw/output/dist/github-snake.svg)
 ---
 
 <p align="center">
