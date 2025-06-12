@@ -212,3 +212,5 @@ With over **6.9 years of experience** in building production‐grade application
 <p align="center">
   <em>“Do or do not. There is no try.” – Yoda</em>
 </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
