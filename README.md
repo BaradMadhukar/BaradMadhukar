@@ -170,8 +170,9 @@ With over **6.9 years of experience** in building production‐grade application
 
 ## 🔗 Connect with me
 <p align="center">
-<a href="mailto:baradmadhukar@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Me" />
+</a>
+   <a href="mailto:baradmadhukar@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
 </a>
 
 
