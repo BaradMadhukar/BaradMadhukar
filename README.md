@@ -9,7 +9,6 @@
 
 </p>
 
-
  <em>
 <h1 align="center">👋 Hi, I'm Madhukar Barad !</h1>
 <h2 align="center">👨🏻‍💻 Java Full Stack Developer | Cloud Enthusiast | Problem Solver</h2>
