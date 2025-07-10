@@ -177,7 +177,7 @@ With over **6.9 years of experience** in building production‐grade application
 
 
 <!-- WhatsApp Badge -->
-<a href="https://wa.me/918500372739" target="_blank">
+<a href="https://wa.me/916281984004" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 </p>
