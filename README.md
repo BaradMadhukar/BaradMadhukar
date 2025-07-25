@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="https://github.com/BaradMadhukar.png" alt="Profile Picture" style="border-radius: 60%; width: 150px; height: 150px;">
+<img src="https://github.com/BaradMadhukar.png" alt="Profile Picture" style="border-square: 60%; width: 150px; height: 150px;">
 
 </p>
 
